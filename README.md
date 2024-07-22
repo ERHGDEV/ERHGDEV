@@ -1,16 +1,6 @@
-# ¡Hola! Soy @ERHGDEV 👋
+# Hola! mi nombre es Erick Hernández 👋
 
-¡Bienvenido a mi perfil de GitHub! Mi intención es ayudar, por lo que los proyectos que encontrarás aquí tienen ese objetivo.
+Soy ingeniero de software (egresado en 2023 de la UACH) y desarrollador web. 
 
-## Acerca de mí
+He trabajado como consultor de help desk desde 2022 y anteriormente como instructor de capacitación además en las áreas de servicio a clientes y ventas. 
 
-- 👀 Estoy interesado en el desarrollo web, educación financiera, tech en general.
-- 📫 Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/erhg/).
-- 😄 Pronombres: él
-- ⚡ Dato curioso: ¡Mi debilidad es la comida!
-
-- ## Tecnologías que utilizo
-
-- React
-- JavaScript
-- HTML/CSS
